@@ -1,5 +1,5 @@
 # Assignment-3
-This repository contains two Python programs that perform basic mathematical operations.
+This repository contains two Python programs.
 
 ---
 
